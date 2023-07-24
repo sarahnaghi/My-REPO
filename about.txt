@@ -1,0 +1,26 @@
+I am Sarah Naghi.
+
+Technology was always my passion. I have a Bachelor degree in information technology with a 
+field of specialization in software engineering.
+
+I graduated from King Abdulaziz university June 2022 with an honor degree. During my study I 
+was able to complete a lot of projects with different programming languages. 
+
+I trained in the Emergency and disasters center at King Abdulaziz University. It is an integrated 
+center within the university equipped with the appropriate technologies and capabilities to deal 
+with emergencies and disasters in all its stages. During that time, using flutter and dart I worked 
+to make an application for early warnings and disaster preventions. The application aims to
+minimize human and material losses, raise the university's readiness to reduce the risks it is 
+exposed to and recover from its effects. After two months it was ready for launching and could
+be downloaded on any android device. 
+
+In my senior year, I worked to make an application using amazon cloud. The application collects
+patients records in one place instead of each hospital having its own record.
+This cloud could be shared between hospitals using a website. The goal was to save patients 
+who do not have medical files or records. 
+
+After my graduation, I started training at Dar al Saaed information technology company.
+I worked with Laravel PHP to make a responsive e-commerce website.
+My goal is to have knowledge and experience in technology and web development.
+Make a positive and direct beneficiation, I am positive that technology will make a difference in the 
+future and my goal is to be a part of it.
